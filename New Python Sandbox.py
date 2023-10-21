@@ -9,3 +9,7 @@ players = [
 print(players[0].intersection(lottery_numbers))
 
 print("This is a test of making a commit and syncing in the GutHub")
+
+#adding extra line of code
+
+players[1].intersection(lottery_numbers)
